@@ -18,7 +18,7 @@ Here are some of the technologies and Tools I work with:
 	- Learning: C/C++
 - Frameworks, Tools and Libraries: 
  - Frontend: React, Vue, JQuery
- - Backend: Django
+ - Backend: Django, NodeJS
  - Database & Hosting: Firebase, AWS
 
 ## 📈 GitHub Stats
