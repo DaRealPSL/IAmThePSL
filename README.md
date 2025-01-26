@@ -6,7 +6,7 @@ I'm a passionate developer. I love contributing to open-source projects and shar
 
 - 🔭 I’m currently working on creating my own programming language named Sparq!
 - 🌱 I’m currently learning C/C++
-- 📫 How to reach me: Pepijnl.snoeren@outlook.com, pepijnl.snoeren@icloud.com
+- 📫 How to reach me: Pepijnl.snoeren@outlook.com, pepijnl.snoeren@icloud.com, pepijnl.snoeren0@gmail.com
 - ⚡ Fun fact: I am only 14 years old!
 
 ## 🚀 Skills
