@@ -11,15 +11,27 @@ I'm a passionate developer. I love contributing to open-source projects and shar
 
 ## 🚀 Skills
 
-Here are some of the technologies and Tools I work with:
+Here are some of the technologies and tools I work with:
 
-- Programming Languages: 
-	- Proficient: Python, JavaScript, HTML, CSS
-	- Learning: C/C++
-- Frameworks, Tools and Libraries: 
- - Frontend: React, Vue, JQuery
- - Backend: Django, NodeJS
- - Database & Hosting: Firebase, AWS
+- **Programming Languages:**  
+  - **Proficient:** JavaScript, TypeScript, HTML, CSS  
+  - **Intermediate:** Python  
+  - **Learning:** C, C++
+
+- **Frameworks, Tools, and Libraries:**  
+  - **Frontend:** React, Vite, Tailwind CSS  
+  - **Backend:** NodeJS, Flask  
+  - **Database & Hosting:** Firebase, PrismaDB, SQLite, AWS
+  
+- **Specialized Skills:**  
+  - Custom programming language development (Virex)  
+  - Game modding and Minecraft development  
+  - Cross-platform application design (macOS & Windows)
+  
+- **Soft Skills:**  
+  - Quick learner, adaptable, detail-oriented  
+  - Strong problem-solving and debugging skills  
+  - Effective communicator for collaborative projects
 
 ## 📈 GitHub Stats
 
