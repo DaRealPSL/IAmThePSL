@@ -5,7 +5,7 @@
 I'm a passionate developer. I love contributing to open-source projects and sharing knowledge with the community. Here are a few things about me:
 
 - 🔭 I’m currently working on creating my own startup named Intellodev!
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning GoLang
 - 📫 How to reach me: Pepijnl.snoeren@outlook.com, pepijnl.snoeren@icloud.com, pepijnl.snoeren0@gmail.com
 - ⚡ Fun fact: I am only 14 years old!
 
