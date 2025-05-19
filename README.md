@@ -16,7 +16,7 @@ Here are some of the technologies and tools I work with:
 - **Programming Languages:**  
   - **Proficient:** JavaScript, TypeScript, HTML, CSS  
   - **Intermediate:** Python  
-  - **Learning:** C, C++
+  - **Learning:** GoLang
 
 - **Frameworks, Tools, and Libraries:**  
   - **Frontend:** React, Vite, Next.js, Tailwind CSS  
