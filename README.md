@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pepijn</h1>
 <h3 align="center">A passionate 14-year-old developer from the Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IAmThePSL&label=Profile%20views&color=0e75b6&style=flat-square" alt="IAmThePSL" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaRealPSL&label=Profile%20views&color=0e75b6&style=flat-square" alt="IAmThePSL" /> </p>
 
 <p align="left"> <a href="https://twitter.com/da_psl" target="blank"><img src="https://img.shields.io/twitter/follow/da_psl?logo=twitter&style=for-the-badge" alt="da_psl" /></a> </p>
 
-- 🔭 I'm currently working on **creating my own startup named Intellodev!**
+- 🔭 I'm currently working on **Mosaic Cipher**
 
 - 🌱 I'm currently learning **GoLang**
 
@@ -56,9 +56,9 @@
 - Game modding and Minecraft development  
 - Cross-platform application design (Unix & Windows)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IAmThePSL&show_icons=true&theme=radical&locale=en&layout=compact" alt="IAmThePSL" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaRealPSL&show_icons=true&theme=radical&locale=en&layout=compact" alt="IAmThePSL" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IAmThePSL&show_icons=true&theme=radical&locale=en" alt="IAmThePSL" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaRealPSL&show_icons=true&theme=radical&locale=en" alt="IAmThePSL" /></p>
 
 ---
 <p align="center">Thanks for visiting my profile! Have a great day! 😊</p>
